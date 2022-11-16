@@ -1,0 +1,5 @@
+rust-example/target/**
+zig-example/zig-cache/**
+zig-example/zig-out/**
+zig-example/libs/**
+
